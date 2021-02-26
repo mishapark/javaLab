@@ -1,0 +1,7 @@
+Peter,Male,Java DB ,2
+Amy,Female,Java DB Web Programming,4
+Anthony,Male,Java DB ,3
+Alex,Male,Java DB Web Programming,3
+Alex,Male,Web Programming,1
+Tim,Male,Java DB ,4
+,Male,,1
